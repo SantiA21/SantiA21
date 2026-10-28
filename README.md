@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Santi+%7C+Full+Stack+Developer;Webs+y+sistemas+a+medida;React+%C2%B7+TypeScript+%C2%B7+.NET" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:2563eb&text=Santi&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
 
-<p>Buenos Aires, Argentina 🇦🇷</p>
+<p>React · TypeScript · ASP.NET Core · C# · SQL Server</p>
 
 <a href="https://santidev.com.ar"><img src="https://img.shields.io/badge/Portfolio-santidev.com.ar-111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
