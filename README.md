@@ -1,15 +1,14 @@
-<h1 align="center">Hola, soy Santi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer</b> · Buenos Aires, Argentina 🇦🇷<br/>
-  Hago webs y sistemas que resuelven problemas reales de negocios reales.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Santi+%7C+Full+Stack+Developer;Webs+y+sistemas+a+medida;React+%C2%B7+TypeScript+%C2%B7+.NET" />
 
-<p align="center">
-  <a href="https://santidev.com.ar"><img src="https://img.shields.io/badge/Portfolio-santidev.com.ar-111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/almiron-santiago-nahuel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:santiago.n.almiron@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<p>Buenos Aires, Argentina 🇦🇷</p>
+
+<a href="https://santidev.com.ar"><img src="https://img.shields.io/badge/Portfolio-santidev.com.ar-111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:TU-MAIL"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 ## 👨‍💻 Sobre mí
