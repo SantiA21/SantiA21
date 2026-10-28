@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:09090b,100:18181b&text=Santiago Almiron&fontColor=fafafa&fontSize=52&fontAlignY=50&stroke=27272a&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:09090b,100:18181b&text=Santiago%20Almirón&fontColor=fafafa&fontSize=52&fontAlignY=50&stroke=27272a&strokeWidth=2" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Webs+y+sistemas+a+medida;Automatizaci%C3%B3n+e+integraciones" />
 
