@@ -12,6 +12,9 @@
 </p>
 
 ---
+## 👨‍💻 Sobre mí
+
+Desarrollador Full Stack con +3 años de experiencia en React, TypeScript, ASP.NET Core y C#/SQL Server. Combino mi trabajo en una empresa de telecomunicaciones con proyectos freelance donde desarrollo webs y sistemas a medida con pagos online, autenticación e integraciones con APIs.
 
 ## 💼 Qué hago
 
