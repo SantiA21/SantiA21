@@ -21,11 +21,12 @@
 
 ## 🛠️ Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs" /><br/>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,mssql,supabase" /><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,railway,git,github" />
-</p>
+| | |
+|---|---|
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=dotnet,cs,php,python,nodejs" /> |
+| **🗄️ Bases de datos** | <img src="https://skillicons.dev/icons?i=mssql,supabase,postgres" /> |
+| **☁️ Deploy & Herramientas** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,railway,git,github" /> |
 
 ## 🚀 Proyectos destacados
 
