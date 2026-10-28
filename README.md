@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Webs+y+sistemas+a+medida;Automatizaci%C3%B3n+e+integraciones" />
 
 <a href="https://santidev.com.ar"><img src="https://img.shields.io/badge/Portfolio-santidev.com.ar-18181b?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" /></a>
-<a href="https://www.linkedin.com/in/almiron-santiago-nahuel"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
-<a href="mailto:santiago.n.almiron@gmail.com"><img src="https://img.shields.io/badge/Mail-18181b?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
+<a href="https://www.linkedin.com/in/almiron-santiago-nahuel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:santiago.n.almiron@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
