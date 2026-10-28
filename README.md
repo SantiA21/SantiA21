@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://santidev.com.ar"><img src="https://img.shields.io/badge/Portfolio-santidev.com.ar-111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU-MAIL"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/almiron-santiago-nahuel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:santiago.n.almiron@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,10 +31,10 @@
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| **[Club Atlético Brown](https://cabrown.com.ar)** | Sitio para un club de fútbol: autenticación, pagos con Mercado Pago (cuotas y entradas), fixture, noticias y sede virtual. | Next.js, TypeScript, Mercado Pago, Cloudflare |
+| **[Club Atlético Brown](https://browndeadrogue.vercel.app)** | Sitio para un club de fútbol: autenticación, pagos con Mercado Pago (cuotas y entradas), fixture, noticias y sede virtual. | Next.js, TypeScript, Mercado Pago, Cloudflare |
 | **[Viajecitto](https://viajecitto.com.ar)** | Herramienta web para planificar viajes, en producción con dominio propio. | TypeScript, Vercel |
 | **[Generador de Datos Argentina](https://mockdata-omega.vercel.app)** | Genera datos de prueba realistas de Argentina (DNI, CUIT, direcciones, etc.) para desarrolladores. | TypeScript, API en Railway |
-| **Sistema de gestión para salón de belleza** | Clientes, turnos, pagos y servicios, con seguridad a nivel de fila y webhooks de pago. | Supabase, Mercado Pago |
+| **[Sistema de gestión para salón de belleza](https://www.nailsbyani.com.ar)** | Clientes, turnos, pagos y servicios, con seguridad a nivel de fila y webhooks de pago. | Supabase, Mercado Pago |
 | **[Mainichi Fútbol 5](https://mainichi-page.vercel.app)** | Sitio para una cancha de fútbol 5 de Adrogué. | TypeScript, Vercel |
 
 > 🔎 También trabajo en la parte técnica de SEO (GA4, Search Console, sitemap, metadata dinámica).
