@@ -25,8 +25,8 @@
 |---|---|
 | **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
 | **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=dotnet,cs,php,python,nodejs" /> |
-| **🗄️ Bases de datos** | <img src="https://skillicons.dev/icons?i=supabase,postgres" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" /> |
-| **☁️ Deploy & Herramientas** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,railway,git,github" /> |
+| **🗄️ Bases de datos** | <img src="https://skillicons.dev/icons?i=supabase,postgres" /> |
+| **☁️ Deploy & Herramientas** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,railway,git,github,postman" /> |
 
 ## 🚀 Proyectos destacados
 
